@@ -42,6 +42,7 @@ python 5_berd_gradcam.py
 ```
 
 All numbers reported in the manuscript are produced by step 3 (and step 4 for Table S3).
+On first use, DINOv2 (torch.hub) and BiomedCLIP (Hugging Face) weights are downloaded automatically.
 Checkpoints and predictions are cached, so steps 3–5 can be re-run without retraining.
 
 ## Evaluation protocol
