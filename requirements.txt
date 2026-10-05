@@ -12,3 +12,4 @@ seaborn
 Pillow
 opencv-python
 open_clip_torch   # BiomedCLIP baseline (secondary analysis)
+transformers      # required by BiomedCLIP's text tower (open_clip)
