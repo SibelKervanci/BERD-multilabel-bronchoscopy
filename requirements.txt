@@ -1,0 +1,14 @@
+# Core (tested with Python 3.x, PyTorch 2.x; replace with `pip freeze` output for exact versions)
+torch>=2.0
+torchvision>=0.15
+numpy
+pandas
+scikit-learn
+scipy
+statsmodels
+optuna
+matplotlib
+seaborn
+Pillow
+opencv-python
+open_clip_torch   # BiomedCLIP baseline (secondary analysis)

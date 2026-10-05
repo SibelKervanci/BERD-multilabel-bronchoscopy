@@ -1,0 +1,9 @@
+# data and generated artefacts (not tracked)
+dataset/
+processed/
+checkpoints_*/
+results/preds_cache/
+*.pt
+__pycache__/
+*.pyc
+.spyproject/
